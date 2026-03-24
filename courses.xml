@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="courses.xsd">
+    <course>
+        <title>Web Development Bootcamp</title>
+        <instructor>Amit Patel</instructor>
+        <price>4999.00</price>
+        <rating>4.8</rating>
+        <duration>12 Weeks</duration>
+    </course>
+    <course>
+        <title>Data Science Masterclass</title>
+        <instructor>Priya Sharma</instructor>
+        <price>6999.00</price>
+        <rating>4.9</rating>
+        <duration>10 Weeks</duration>
+    </course>
+    <course>
+        <title>UI/UX Design</title>
+        <instructor>Ravi Kumar</instructor>
+        <price>5999.00</price>
+        <rating>4.7</rating>
+        <duration>8 Weeks</duration>
+    </course>
+</courses>
